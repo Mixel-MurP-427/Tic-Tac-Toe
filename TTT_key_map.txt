@@ -1,0 +1,14 @@
+Games played memory bank key:
+    'F' means "first player"
+        'X' means the TTT AI played first
+        'O' means the user played first
+    'M' is the moves each player made, in order, starting with the first player
+    'U' is the name of the user who played against the AI
+    'W' means "who won?"
+        'W' means "win" (the AI won)
+        'L' means "loss" (the AI lost)
+
+odds key:
+    'W0' is an instant win for this game
+    'L0' is a definite lose for this game (assuming the user makes the same move as before)
+    
